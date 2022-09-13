@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagicTap</string>
+    <string name="button_txt">ADD 1!</string>
+    <string name="counter">0</string>
+    <string name="upgrade_txt">Upgrade?</string>
+    counter
+</resources>
